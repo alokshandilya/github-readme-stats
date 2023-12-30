@@ -63,6 +63,12 @@ export const themes = {
     text_color: "8ec07c",
     bg_color: "282828",
   },
+  gruvbox_material: {
+    title_color: "d8a657",
+    icon_color: "e78a4e",
+    text_color: "89b482",
+    bg_color: "1d2021",
+  },
   gruvbox_light: {
     title_color: "b57614",
     icon_color: "af3a03",
